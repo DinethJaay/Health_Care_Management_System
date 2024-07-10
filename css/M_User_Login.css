@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    align-items: center;
+    justify-content: center;
+    background: whitesmoke; 
+  }
+  h1{
+      text-align: center;
+      color: blue;
+  }
+  h3{
+      text-align: center;
+      margin-bottom: 10px;
+  }
+  #containerm {
+    position: relative;
+    max-width: 600px;
+    height: auto;
+    width: 100%;
+    padding: 25px;
+    border-radius: 8px;
+    background:transparent;
+    padding-top: 20px;
+    margin-top :150px ;
+    margin-bottom :100px ;
+    border: 1px solid blue;
+  }
+  
+  .form-label{
+      padding-bottom: 0px;
+      margin-bottom: 2px;
+      font-weight: bold;
+      color: black;
+  }
+  .form-check-label{
+      margin-left: 3px;
+      color: black;
+  }
+  .form-text{
+      color: black;
+  }
+  
+  #btnSubmit{
+      font-size: 30px;
+      margin-top: 30px;
+  }
+  
+  .inputfeild span{
+         color: red;
+         margin-top: 8PX; 
+        }
+      
+  
+  .inputfeild span i{
+        color: green;
+        }
+
+    #forgotten{
+        color: Black;
+    }
+
+    #signup{
+        color: Black;
+    }
+
+    
